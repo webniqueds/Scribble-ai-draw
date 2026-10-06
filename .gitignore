@@ -1,0 +1,13 @@
+﻿node_modules
+dist/
+tsconfig.tsbuildinfo
+.env
+.env.*
+!.env.example
+.vercel
+.env*
+vite.pid
+devserver.pid
+
+# local scratch notes (intentionally not tracked)
+prompt.txt
